@@ -1,4 +1,4 @@
-# Day 01: Historian Hysteria
+# Day 1: Historian Hysteria
 
 ## Part 1
 
